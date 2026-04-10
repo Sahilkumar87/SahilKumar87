@@ -40,10 +40,10 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"><br><b>MongoDB</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"><br><b>C++</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"><br><b>C</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"><br><b>HTML</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"><br><b>React.js</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"><br><b>CSS</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"><br><b>VS Code</b></td>
     <td align="center"><img src="https://img.shields.io/badge/REST%20APIs-%2312100E?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs"></td>
     <td align="center"><img src="https://img.shields.io/badge/JWT-Auth-FF2D55?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"></td>
     <td align="center"><img src="https://img.shields.io/badge/Unit%20Tests-JUnit%20%7C%20Mocha-6E7BFF?style=for-the-badge" alt="Tests"></td>
