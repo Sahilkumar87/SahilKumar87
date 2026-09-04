@@ -27,29 +27,126 @@
 ---
 
 ## Tech stack overview
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"><br><b>Java</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring"><br><b>Spring</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"><br><b>Spring Boot</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"><br><b>C++</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"><br><b>C</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"><br><b>JavaScript</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"><br><b>React.js</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"><br><b>Node.js</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js"><br><b>Express.js</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"><br><b>MongoDB</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"><br><b>VS Code</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/REST%20APIs-%2312100E?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs"></td>
-    <td align="center"><img src="https://img.shields.io/badge/JWT-Auth-FF2D55?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Unit%20Tests-JUnit%20%7C%20Mocha-6E7BFF?style=for-the-badge" alt="Tests"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Tools-Git%20%7C%20Postman%20%7C%20Docker-00B8D9?style=for-the-badge&logo=git&logoColor=white" alt="Tools"></td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+                <br>C
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+                <br>C++
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+                <br>Java
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+                <br>TypeScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+                <br>Python
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
+                <br>Spring
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+                <br>Spring Boot
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Swing" />
+                <br>Swing
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="AWT" />
+                <br>AWT
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />
+                <br>Apache
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+                <br>React
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="48" height="48" alt="React Native" />
+                <br>React Native
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+                <br>Node.js
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+                <br>Express
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="Nest.js" />
+                <br>Nest.js
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+                <br>Next.js
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+                <br>MySQL
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+                <br>MongoDB
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48" height="48" alt="REST API" />
+                <br>REST API
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+                <br>Postman
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" width="48" height="48" alt="JWT / Auth" />
+                <br>JWT / Auth
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+                <br>GitHub
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+                <br>Git
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+                <br>Docker
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+                <br>Bash
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
+                <br>VSCode
+            </td>
+        </tr>
+    </table>
+    <br>
+    <br>
+</div>
 
 ---
 
