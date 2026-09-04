@@ -123,7 +123,7 @@
                 <br>JWT / Auth
             </td>
             <td align="center" width="96">
-               <img src="https://cdn.simpleicons.org/github" width="48" height="48" alt="GitHub" />
+              <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub" />
                 <br>GitHub
             </td>
             <td align="center" width="96">
